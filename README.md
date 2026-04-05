@@ -9,4 +9,4 @@ A machine learning-based project that classifies news articles as fake or real u
 - Prediction of news as fake or real
 
 # Dataset
-The dataset contains labeled news articles classified as fake or real.
+https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification
