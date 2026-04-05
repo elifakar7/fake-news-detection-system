@@ -1,6 +1,6 @@
 # fake-news-detection-system
 # Project Overview
-A machine learning-based project that classifies news articles as fake or real using NLP techniques.
+A machine learning-based project that classifies news articles as fake or real using TF-IDF vectorization.
 
 # Features
 - Text preprocessing 
